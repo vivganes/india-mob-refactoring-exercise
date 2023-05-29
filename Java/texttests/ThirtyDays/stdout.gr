@@ -1,0 +1,373 @@
+NAMASTE!
+-------- day 0 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 10, 20
+Himalayan Cheese, 2, 0
+Elixir of the Airavata, 5, 7
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 15, 20
+Backstage passes to a Hindustani concert, 10, 49
+Backstage passes to a Hindustani concert, 5, 49
+Magical Aamras, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 9, 19
+Himalayan Cheese, 1, 1
+Elixir of the Airavata, 4, 6
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 14, 21
+Backstage passes to a Hindustani concert, 9, 50
+Backstage passes to a Hindustani concert, 4, 50
+Magical Aamras, 2, 5
+
+-------- day 2 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 8, 18
+Himalayan Cheese, 0, 2
+Elixir of the Airavata, 3, 5
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 13, 22
+Backstage passes to a Hindustani concert, 8, 50
+Backstage passes to a Hindustani concert, 3, 50
+Magical Aamras, 1, 4
+
+-------- day 3 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 7, 17
+Himalayan Cheese, -1, 4
+Elixir of the Airavata, 2, 4
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 12, 23
+Backstage passes to a Hindustani concert, 7, 50
+Backstage passes to a Hindustani concert, 2, 50
+Magical Aamras, 0, 3
+
+-------- day 4 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 6, 16
+Himalayan Cheese, -2, 6
+Elixir of the Airavata, 1, 3
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 11, 24
+Backstage passes to a Hindustani concert, 6, 50
+Backstage passes to a Hindustani concert, 1, 50
+Magical Aamras, -1, 1
+
+-------- day 5 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 5, 15
+Himalayan Cheese, -3, 8
+Elixir of the Airavata, 0, 2
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 10, 25
+Backstage passes to a Hindustani concert, 5, 50
+Backstage passes to a Hindustani concert, 0, 50
+Magical Aamras, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 4, 14
+Himalayan Cheese, -4, 10
+Elixir of the Airavata, -1, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 9, 27
+Backstage passes to a Hindustani concert, 4, 50
+Backstage passes to a Hindustani concert, -1, 0
+Magical Aamras, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 3, 13
+Himalayan Cheese, -5, 12
+Elixir of the Airavata, -2, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 8, 29
+Backstage passes to a Hindustani concert, 3, 50
+Backstage passes to a Hindustani concert, -2, 0
+Magical Aamras, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 2, 12
+Himalayan Cheese, -6, 14
+Elixir of the Airavata, -3, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 7, 31
+Backstage passes to a Hindustani concert, 2, 50
+Backstage passes to a Hindustani concert, -3, 0
+Magical Aamras, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 1, 11
+Himalayan Cheese, -7, 16
+Elixir of the Airavata, -4, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 6, 33
+Backstage passes to a Hindustani concert, 1, 50
+Backstage passes to a Hindustani concert, -4, 0
+Magical Aamras, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, 0, 10
+Himalayan Cheese, -8, 18
+Elixir of the Airavata, -5, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 5, 35
+Backstage passes to a Hindustani concert, 0, 50
+Backstage passes to a Hindustani concert, -5, 0
+Magical Aamras, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -1, 8
+Himalayan Cheese, -9, 20
+Elixir of the Airavata, -6, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 4, 38
+Backstage passes to a Hindustani concert, -1, 0
+Backstage passes to a Hindustani concert, -6, 0
+Magical Aamras, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -2, 6
+Himalayan Cheese, -10, 22
+Elixir of the Airavata, -7, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 3, 41
+Backstage passes to a Hindustani concert, -2, 0
+Backstage passes to a Hindustani concert, -7, 0
+Magical Aamras, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -3, 4
+Himalayan Cheese, -11, 24
+Elixir of the Airavata, -8, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 2, 44
+Backstage passes to a Hindustani concert, -3, 0
+Backstage passes to a Hindustani concert, -8, 0
+Magical Aamras, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -4, 2
+Himalayan Cheese, -12, 26
+Elixir of the Airavata, -9, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 1, 47
+Backstage passes to a Hindustani concert, -4, 0
+Backstage passes to a Hindustani concert, -9, 0
+Magical Aamras, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -5, 0
+Himalayan Cheese, -13, 28
+Elixir of the Airavata, -10, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, 0, 50
+Backstage passes to a Hindustani concert, -5, 0
+Backstage passes to a Hindustani concert, -10, 0
+Magical Aamras, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -6, 0
+Himalayan Cheese, -14, 30
+Elixir of the Airavata, -11, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -1, 0
+Backstage passes to a Hindustani concert, -6, 0
+Backstage passes to a Hindustani concert, -11, 0
+Magical Aamras, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -7, 0
+Himalayan Cheese, -15, 32
+Elixir of the Airavata, -12, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -2, 0
+Backstage passes to a Hindustani concert, -7, 0
+Backstage passes to a Hindustani concert, -12, 0
+Magical Aamras, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -8, 0
+Himalayan Cheese, -16, 34
+Elixir of the Airavata, -13, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -3, 0
+Backstage passes to a Hindustani concert, -8, 0
+Backstage passes to a Hindustani concert, -13, 0
+Magical Aamras, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -9, 0
+Himalayan Cheese, -17, 36
+Elixir of the Airavata, -14, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -4, 0
+Backstage passes to a Hindustani concert, -9, 0
+Backstage passes to a Hindustani concert, -14, 0
+Magical Aamras, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -10, 0
+Himalayan Cheese, -18, 38
+Elixir of the Airavata, -15, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -5, 0
+Backstage passes to a Hindustani concert, -10, 0
+Backstage passes to a Hindustani concert, -15, 0
+Magical Aamras, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -11, 0
+Himalayan Cheese, -19, 40
+Elixir of the Airavata, -16, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -6, 0
+Backstage passes to a Hindustani concert, -11, 0
+Backstage passes to a Hindustani concert, -16, 0
+Magical Aamras, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -12, 0
+Himalayan Cheese, -20, 42
+Elixir of the Airavata, -17, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -7, 0
+Backstage passes to a Hindustani concert, -12, 0
+Backstage passes to a Hindustani concert, -17, 0
+Magical Aamras, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -13, 0
+Himalayan Cheese, -21, 44
+Elixir of the Airavata, -18, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -8, 0
+Backstage passes to a Hindustani concert, -13, 0
+Backstage passes to a Hindustani concert, -18, 0
+Magical Aamras, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -14, 0
+Himalayan Cheese, -22, 46
+Elixir of the Airavata, -19, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -9, 0
+Backstage passes to a Hindustani concert, -14, 0
+Backstage passes to a Hindustani concert, -19, 0
+Magical Aamras, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -15, 0
+Himalayan Cheese, -23, 48
+Elixir of the Airavata, -20, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -10, 0
+Backstage passes to a Hindustani concert, -15, 0
+Backstage passes to a Hindustani concert, -20, 0
+Magical Aamras, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -16, 0
+Himalayan Cheese, -24, 50
+Elixir of the Airavata, -21, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -11, 0
+Backstage passes to a Hindustani concert, -16, 0
+Backstage passes to a Hindustani concert, -21, 0
+Magical Aamras, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -17, 0
+Himalayan Cheese, -25, 50
+Elixir of the Airavata, -22, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -12, 0
+Backstage passes to a Hindustani concert, -17, 0
+Backstage passes to a Hindustani concert, -22, 0
+Magical Aamras, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -18, 0
+Himalayan Cheese, -26, 50
+Elixir of the Airavata, -23, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -13, 0
+Backstage passes to a Hindustani concert, -18, 0
+Backstage passes to a Hindustani concert, -23, 0
+Magical Aamras, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -19, 0
+Himalayan Cheese, -27, 50
+Elixir of the Airavata, -24, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -14, 0
+Backstage passes to a Hindustani concert, -19, 0
+Backstage passes to a Hindustani concert, -24, 0
+Magical Aamras, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
++5 DIY Gol gappa kit, -20, 0
+Himalayan Cheese, -28, 50
+Elixir of the Airavata, -25, 0
+Ganga Jal, 0, 80
+Ganga Jal, -1, 80
+Backstage passes to a Hindustani concert, -15, 0
+Backstage passes to a Hindustani concert, -20, 0
+Backstage passes to a Hindustani concert, -25, 0
+Magical Aamras, -27, 0
+
